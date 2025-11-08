@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Hossein 👋</h1>
+<h1 align="center">Hey there, I'm Hosein 👋</h1>
 <h3 align="center">🧠 Network Engineer | Python Developer | Web Designer | DevOps | Linux Specialist 🐧</h3>
 
 ---
