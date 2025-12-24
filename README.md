@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-green?logo=docker" />
   <img src="https://img.shields.io/badge/Web-HTML5%20%7C%20CSS3%20%7C%20JS-orange?logo=html5" />
   <img src="https://img.shields.io/badge/Framework-FastAPI%20%7C%20Flask-009688?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Automation-Bash%20%7C%20Zsh%20%7C%20Ansible-grey?logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Automation-Bash%20%7C%20Zsh%20%7C%20Ansible-black?logo=gnu-bash" />
 </p>
 
 ---
