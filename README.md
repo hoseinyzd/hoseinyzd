@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Hosein 👋</h1>
-<h3 align="center">🧠 Network Engineer | Python Developer | Web Designer | DevOps | Linux Specialist 🐧</h3>
+<h3 align="center">🧠 Network Engineer | Python Developer | Web Designer | Junior DevOps Engineer | Linux Specialist 🐧</h3>
 
 ---
 
