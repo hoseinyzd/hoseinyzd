@@ -15,7 +15,7 @@
 
 ### 🧰 My Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kubuntu-blue?logo=linux" />
+  <img src="https://img.shields.io/badge/Linux-Lpic1%20%7C%20Lpic2-blue?logo=linux" />
   <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" />
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-green?logo=docker" />
   <img src="https://img.shields.io/badge/Web-HTML5%20%7C%20CSS3%20%7C%20JS-orange?logo=html5" />
